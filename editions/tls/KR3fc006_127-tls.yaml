@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/127
+seq: 127
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:7c3d5113d2d2ad30d00b692fddf81a6ad217311fba8c9af754617d0010c9c8d4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太史丞比年已來奉敕校勘傳仁均歷凡駁正術錯三十餘道即付太史施行伏尋九章商功篇有平地役功受袤之術至於上寬下狹前高後卑正經之內闕而不論致使今代之人不達深理就平正之閒同欹邪之用斯乃圓孔方枘如何可安臣晝思夜想臨書浩歎恐一旦瞑目將來莫覩遂於平地之餘續狹斜之法凡二十術名曰緝古請訪能算之人考論得失如有排其一字臣欲謝以千金輕用陳聞伏深戰悚謹言
+  hash: sha256:fc1eccec209effc3c77ee252dadba823c6b9f6cdd3e84c3ac489829df82c58ff
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:6a88e7f4368df8d911c022407f1817721e04a4371f83b5140fed7b96294fcfb3

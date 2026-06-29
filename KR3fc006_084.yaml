@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/84
+seq: 84
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下袤一十一丈一尺廣九丈四尺丙郡五千四百七十三人深六尺下袤一十一丈七尺廣九丈八尺丁郡二千九百三十三人深三丈敦仁案丈當作尺下袤一十二丈廣一十丈求窖深廣袤術曰以斛法乘總粟為積尺及廣差乘袤差三而一為隅陽羃乃置塹上廣半廣差加之以乘塹上袤為隅頭羃又半袤差乘塹上廣以隅陽羃及隅頭羃加之為方法又置塹上袤及塹上廣并之為大廣又并廣差及袤差半之以加大廣為廉法從開立方除之即深各加差即合所問
+  hash: sha256:f18a6fbae70b781f29407c8b007f694d9026f2a7c72753bfbb9a5430a229489c
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:73f525740fe70c8a7b6bb548e08c73a9fd7a7c7d933ce2e79ca20fb4ff0b2f7c

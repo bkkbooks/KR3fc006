@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/70
+seq: 70
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上廣四十丈九尺二寸深一十八丈六尺丙郡正袤五十七丈六尺斜袤五十七丈七尺二寸上廣四十八丈三尺六寸深二十二丈三尺二寸丁郡正袤二十八丈八尺六寸敦仁案六寸二字衍此緣與斜袤數相涉而誤斜袤二十八丈八尺六寸上廣五十二丈八寸深二十四丈一尺八寸術曰如築隄術入之覆隄為河彼注甚明高深稍殊程功是同意可知也以程功乘甲郡人又以限日乘之四之三而一為積又六因以乘袤羃以上廣差乘深差為法除之為實又并小頭上下廣以乘小頭深三之為垣頭羃又乘袤羃以法除之為垣方三因小頭上廣以乘正袤以廣差除之為都廉從開立方除之即
+  hash: sha256:e5bdfa81fb1656da7ab813994f728b716edc63c17c48cc20cc47f5657d0ff9bb
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:861eebcab5e27037e6421eed37c33b7f00e7e573b3c39e46d181884ba0315a39

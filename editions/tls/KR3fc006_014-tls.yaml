@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上廣七丈下廣九丈上袤一十丈下袤一十四丈甲縣給高四丈五尺上廣八丈五尺下廣九丈上袤一十三丈下袤一十四丈乙縣給高一十三丈五尺上廣七丈下廣八丈五尺上袤一十丈下袤一十三丈羨道高一十八丈上廣三丈六尺下廣二丈四尺袤一十四丈
+  hash: sha256:b4aac222ad04716fd6beec16a75a03a3a9133bcf5aeb43187154b3c9e541144a
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:8d955ad7f6fe8a49cd19eea5027f0827a9f87008387e12b0a47b10cf299d7d06

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/144
+seq: 144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 右緝古算經細草陽城張古餘先生𢰅壬戌季秋先生奉省檄權知吾郡自公之暇以是書命銳覆校旣卒業而爲之跋其尾案立天元術始見元李冶測圓海鏡益古演段二書冶稱其術出於洞淵九容今洞淵之書已亡莫能詳所自矣緝古二十術其十九術皆以從立方除問數奇勝術意隱祕學者未易通曉惟以立天元術解之其中條理乃渙若冰釋葢金元如積之法濫觴於斯已今世爲九九學者不乏其人而通古𧧼達深理者卒鮮先生此書洵足以發揮古人箴砭俗學非若劉孝孫之於張邱建聊依術而衍其數也是歲十二月戊戌朔二十日丁巳元和李銳記
+  hash: sha256:3ab04b443babab85ae6d1c1c053509287c6b4950928ecffd754ad61e3eb45517
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:b1e390de8d00c2a1c4ea6e67d7c8c5daa531c7e99e989960d63b1d81da236810

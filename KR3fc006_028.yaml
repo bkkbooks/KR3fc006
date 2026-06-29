@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十二尺得為上廣又以上廣少袤一百四尺加上廣得為袤又以高多袤四十尺加入袤得下式為高乃倍下廣得加入上廣得下式以袤乘之得下式又以高數乘之得下式合以六除之為羡道積今不除便以此為道積內寄六寄左為母然後以甲縣一十三鄉乙縣四十三鄉併之得五十六鄉以常積六千三百尺乘之得為道積又以分母六因之得為同數與左相消得上下俱三約之得開立方得二十四尺即下廣也餘各依術入之合問求羡道均給積尺甲縣受廣袤術曰以均賦常積乘甲縣一十三鄉又六因為積以袤再乘之以道上下廣差乘臺高為法而一為實又三因下廣以袤乘之如上下廣差而一為都廉從開立方除之即甲袤以
+  hash: sha256:7448c3af16f8e2d0ba44ee85e40fd0fd41d5383db86d30541e9f198211d4d0a5
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:4a3c7bd0e74c7f8807e5aeefac9fdab12041bec465cc87b3533b18ccdfcbe3e1

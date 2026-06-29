@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/60
+seq: 60
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上廣二丈一尺乙縣高二丈一尺袤一丈三尺二寸上廣二丈二尺二寸丙縣高三丈袤一丈九尺八寸上廣二丈四尺求龍尾隄廣袤高術曰以程功乘總人爲隄積又六因之爲虛積以少高乘少袤爲隅羃以少上廣乘之爲鼈隅羃以減虛積餘三約之所得爲實并少高袤以少上廣乘之爲鼈從橫廉羃三而一加隅羃爲方法又三除少上廣以少袤少高加之爲廉法從開立方除之得下廣加差卽高廣袤草曰立天元一爲下廣加上下廣差六尺得爲上廣又以下廣少高一十二尺加下廣得一爲高又以下廣少袤四十八尺加下廣得爲袤乃倍下廣得下
+  hash: sha256:f05bdcff4171646e862a25c89a1da167ba7598b92a98d4495e187ea2bdcf39be
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:ac61740fb6295218ca1071c3226c985f3e8ff1cf1119a459427de02c641eabc2

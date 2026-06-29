@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/102
+seq: 102
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 積又以分母三因之得又以本高羃一百四十四尺乘之如方差羃三十六尺而一得為同數與左相消得開立方得六尺為出粟高以減本高餘六尺即餘粟高也合問假令芻甍上袤三丈下袤九丈廣六丈高一十二丈有甲縣六百三十二人乙縣二百四十三人夏程人功常積三十六尺限八日役自穿築二縣𠔏造今甲縣先到問自下給高廣袤各多少答曰高四丈八尺上廣三丈六尺袤六丈六尺求甲縣均給積尺受廣袤術曰以程功乘乙縣人數又以限日乘之為積尺以六因之又高羃乘之又袤差乘廣而一所得又半之為實高乘上袤袤差而一為上袤之
+  hash: sha256:807e826c2f6da1c2e01ea960e656a70351aa18e5b8918e68a70715eb43a8caa7
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:fef1884514e160ec23e5bd2b0040fe92eb32ab187f4d71b47b993f21d236e5ec

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/140
+seq: 140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假令有股十六二分之一句弦相乘羃一百六十四二十五分之十四問句多少答曰句八五分之四術曰羃自乘為實股自乘為方法從開方除之所得又開方即句草曰立天元一為句羃又以股十六二分之一即十分之五自之得為股羃以加句羃得為弦羃以句羃乘之得寄左然後以句弦相乘羃一百六十四二十五分之十四即百分之五十六自之得為同數與左相消得開平方得下為句羃又開方得八五分之四即十分之八即句也合問
+  hash: sha256:391fe21966d54ff6ae9bb16e9df7f3b419241a8d17a84a4afd51d85aab30807f
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:eeb4e00f03d3f6aee2b5661aac86a5a85c8aede8ab7216f67a802f6eb69acf68

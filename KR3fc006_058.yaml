@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/58
+seq: 58
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唐通直郎太史丞臣王孝通𢰅并注張敦仁𢰅細草假令築龍尾隄其隄從頭高上闊以次低狹至尾上廣多下廣少隄頭上下廣差六尺下廣少高一丈二尺少袤四丈八尺甲縣二千三百七十五人乙縣二千三百七十八人丙縣五千二百四十七人各人程功常積一尺九寸八分一日役畢三縣𠔏築今從隄尾與甲縣以次與乙丙問龍尾隄從頭至尾高袤廣及各縣別給高袤廣各多少答曰高三丈上廣二丈四尺下廣一丈八尺袤六丈六尺甲縣高一丈五尺袤三丈三尺
+  hash: sha256:1abdaeae03b6f12d6f4476ee678b95851a0addb4a0be54ad88339adf88243f52
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:a444652080464f7faf6d3bcea977391435e9a856249c6daa96852841dcb640cc

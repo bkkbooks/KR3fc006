@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古算書多有細草緝古算經闕焉辛酉仲夏余有事於崇明海門閒蚤晏𠋫潮汐暇時無以自遣適篋中攜是編因為步算補草計往返旬有四日而畢録而存之或亦言古學者所不廢也嘉慶六年六月初四日陽城張敦仁識於崇明之步鎮海壖
+  hash: sha256:8522f6fa1199ce03a2164e2be6c62265f6de418026a10c03fd001704a2226532
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:7a8279f8ccd9a8622f5d75ad7be98e77146bf44a17829ca40b586c6b77073584

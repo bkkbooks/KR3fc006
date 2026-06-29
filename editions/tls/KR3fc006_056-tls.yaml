@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/56
+seq: 56
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二尺一寸以乘之得三千一尺七寸三分於上又置東頭高倍之得六尺二寸加西頭高𠔏得四十尺三寸併東頭上廣八尺下廣一十四尺二寸得二十二尺二寸半之得一十一尺一寸以乘之得四百四十七尺三寸三分於下併上下二位𠔏得三千四百四十九尺六分以正袤四百八十尺乘之得一百六十五萬五千五百四十八尺八寸又以六除之得二十七萬五千九百二十四尺八寸卽隄積也合問緝古算經上元和李銳算校
+  hash: sha256:bd45d4681790adfb7f5f60de50dff6023d314c70ef45a8c35852fb749297e6cf
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:69b24fcabb5e2174010e38b38758d7b234dd8975c282ebc844ce57e3f1af51cb

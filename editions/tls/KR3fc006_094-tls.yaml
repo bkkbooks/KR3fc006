@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc006/tls/v1/juan/94
+seq: 94
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立方得二十七尺爲甲乙丙并深以甲乙并深二十一尺減之餘六尺卽丙深也以甲乙丙并深減窖深三十尺餘三尺卽丁深也合問緝古算經中元和李銳算校
+  hash: sha256:80a5fca1e0aed9f2529dcc0641bf5e10bd2c3355c109816fb696f781d79e102e
+metadata:
+  title: 緝古算經
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc006.xml
+hash: sha256:61657bba0416aa8c187ba813b6d04bdd27f34c1d4a92db4b2800a9f9f503e6fd
