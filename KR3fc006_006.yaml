@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 古算書多有細草緝古算經闕焉辛酉仲夏余有事於崇明海門閒蚤晏𠋫潮汐暇時無以自遣適篋中攜是編因爲步算補草計往返旬有四日而畢錄而存之或亦言古學者所不廢也嘉慶六年六月初四日陽城張敦仁識於崇明之步鎮海壖
-  hash: sha256:c5da85f4c85763ecd8dd5b76bd044e56e6cc32c8e15a2b1146d105463c6a8789
+  text: 古算書多有細草緝古算經闕焉辛酉仲夏余有事於崇明海門間蚤晏候潮汐暇時無以自遣適篋中攜是編因為步算補草計往返旬有四日而畢録而存之或亦言古學者所不廢也嘉慶六年六月初四日陽城張敦仁識於崇明之步鎮海壖
+  hash: sha256:19ceb8590c4a2f36b86556a7b58936130ba51de8424fdc29b2af54c4ba888d5b
 metadata:
   title: 緝古算經
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc006.xml
-hash: sha256:1973747296809db7d017d2c39db5b89fccc0053b6e3833f774d911f199a5315d
+hash: sha256:2d657bfea4ef424fb4097ad67319c8947834dfa0f4ecbc8b3b37da4e8d55c0f3
